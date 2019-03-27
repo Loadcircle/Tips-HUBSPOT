@@ -1,0 +1,1 @@
+{% cta "my_cta" label='Select a CTA', guid='{{ module.cta }}' %}
